@@ -267,4 +267,4 @@ def api_fetch_article():
     return jsonify({"url": url, "content": content, "length": len(content)})
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=8899, debug=False, use_reloader=False)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8899)), debug=False, use_reloader=False)
