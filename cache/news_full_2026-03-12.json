@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-03-12 18:39",
+  "indices": [],
+  "sectors": [
+    {
+      "name": "储能",
+      "code": "BK1324",
+      "price": 899.54,
+      "change_pct": 7.44,
+      "change": 62.3
+    },
+    {
+      "name": "其他化学纤维",
+      "code": "BK1415",
+      "price": 3537.84,
+      "change_pct": 6.82,
+      "change": 225.99
+    },
+    {
+      "name": "风电整机",
+      "code": "BK1314",
+      "price": 2559.33,
+      "change_pct": 5.62,
+      "change": 136.24
+    },
+    {
+      "name": "煤化工",
+      "code": "BK1419",
+      "price": 2251.09,
+      "change_pct": 4.7,
+      "change": 101.1
+    },
+    {
+      "name": "焦炭Ⅲ",
+      "code": "BK1492",
+      "price": 1034.67,
+      "change_pct": 4.34,
+      "change": 43.06
+    },
+    {
+      "name": "焦炭Ⅱ",
+      "code": "BK1249",
+      "price": 1034.67,
+      "change_pct": 4.34,
+      "change": 43.06
+    },
+    {
+      "name": "风电设备",
+      "code": "BK1032",
+      "price": 1859.21,
+      "change_pct": 4.32,
+      "change": 77.03
+    },
+    {
+      "name": "期货",
+      "code": "BK1361",
+      "price": 641.54,
+      "change_pct": 4.18,
+      "change": 25.72
+    },
+    {
+      "name": "动力煤",
+      "code": "BK1493",
+      "price": 2403.66,
+      "change_pct": 4.1,
+      "change": 94.65
+    },
+    {
+      "name": "煤炭",
+      "code": "BK0437",
+      "price": 14485.01,
+      "change_pct": 4.09,
+      "change": 568.63
+    }
+  ],
+  "total_news": 0,
+  "analyzed_news": 0,
+  "news": [],
+  "all_news": []
+}

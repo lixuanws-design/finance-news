@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html><head><title>Generate Icons</title></head><body>
+<canvas id="c" width="512" height="512"></canvas>
+<script>
+const c = document.getElementById('c');
+const ctx = c.getContext('2d');
+// Background
+ctx.fillStyle = '#1a1a1a';
+ctx.fillRect(0, 0, 512, 512);
+// Circle
+ctx.fillStyle = '#c41e3a';
+ctx.beginPath();
+ctx.arc(256, 256, 200, 0, Math.PI * 2);
+ctx.fill();
+// Text
+ctx.fillStyle = '#fff';
+ctx.font = 'bold 280px Arial';
+ctx.textAlign = 'center';
+ctx.textBaseline = 'middle';
+ctx.fillText('老', 256, 280);
+// Download
+const link = document.createElement('a');
+link.download = 'icon-512.png';
+link.href = c.toDataURL('image/png');
+link.click();
+// Also generate 192
+c.width = 192; c.height = 192;
+ctx.fillStyle = '#1a1a1a';
+ctx.fillRect(0, 0, 192, 192);
+ctx.fillStyle = '#c41e3a';
+ctx.beginPath();
+ctx.arc(96, 96, 75, 0, Math.PI * 2);
+ctx.fill();
+ctx.fillStyle = '#fff';
+ctx.font = 'bold 100px Arial';
+ctx.fillText('老', 96, 105);
+const link2 = document.createElement('a');
+link2.download = 'icon-192.png';
+link2.href = c.toDataURL('image/png');
+link2.click();
+</script>
+<p>Icons generated! Check downloads.</p>
+</body></html>

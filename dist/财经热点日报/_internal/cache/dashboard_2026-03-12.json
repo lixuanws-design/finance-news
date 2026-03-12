@@ -1,0 +1,466 @@
+{
+  "timestamp": "2026-03-12 21:43",
+  "indices": [],
+  "sectors": [
+    {
+      "name": "储能",
+      "change_pct": 7.44
+    },
+    {
+      "name": "其他化学纤维",
+      "change_pct": 6.82
+    },
+    {
+      "name": "风电整机",
+      "change_pct": 5.62
+    },
+    {
+      "name": "煤化工",
+      "change_pct": 4.7
+    },
+    {
+      "name": "焦炭Ⅲ",
+      "change_pct": 4.34
+    },
+    {
+      "name": "焦炭Ⅱ",
+      "change_pct": 4.34
+    },
+    {
+      "name": "风电设备",
+      "change_pct": 4.32
+    },
+    {
+      "name": "期货",
+      "change_pct": 4.18
+    },
+    {
+      "name": "动力煤",
+      "change_pct": 4.1
+    },
+    {
+      "name": "煤炭",
+      "change_pct": 4.09
+    }
+  ],
+  "hot_stocks": [
+    {
+      "name": "688295",
+      "code": "1",
+      "price": "�и���ӥ",
+      "change_pct": "43.25"
+    },
+    {
+      "name": "301396",
+      "code": "2",
+      "price": "�꾰�Ƽ�",
+      "change_pct": "149.98"
+    },
+    {
+      "name": "301068",
+      "code": "3",
+      "price": "��غ���",
+      "change_pct": "35.16"
+    },
+    {
+      "name": "301667",
+      "code": "4",
+      "price": "�ɰٴ�",
+      "change_pct": "79.98"
+    },
+    {
+      "name": "300690",
+      "code": "5",
+      "price": "˫һ�Ƽ�",
+      "change_pct": "37.40"
+    },
+    {
+      "name": "688097",
+      "code": "6",
+      "price": "���ھ���",
+      "change_pct": "63.54"
+    },
+    {
+      "name": "301658",
+      "code": "7",
+      "price": "�׺�����",
+      "change_pct": "53.20"
+    },
+    {
+      "name": "300672",
+      "code": "8",
+      "price": "����΢",
+      "change_pct": "159.88"
+    },
+    {
+      "name": "300323",
+      "code": "9",
+      "price": "���ӹ��",
+      "change_pct": "13.41"
+    },
+    {
+      "name": "920091",
+      "code": "10",
+      "price": "������ҵ",
+      "change_pct": "75.20"
+    }
+  ],
+  "total_news": 59,
+  "analyzed_news": 3,
+  "news_with_stocks": [
+    {
+      "title": "伊朗喊话：美国准备好迎接200美元油价",
+      "url": "https://finance.eastmoney.com/a/202603123670210790.html",
+      "source": "东方财富",
+      "time": "",
+      "stocks": [
+        {
+          "name": "中国石油",
+          "code": "601857",
+          "keyword": "油价"
+        }
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "title": "上证指数震荡整理 风电设备与煤炭开采板块大涨",
+      "url": "https://finance.eastmoney.com/a/202603123670089077.html",
+      "source": "东方财富",
+      "time": "",
+      "stocks": [
+        {
+          "name": "中国神华",
+          "code": "601088",
+          "keyword": "煤炭"
+        },
+        {
+          "name": "陕西煤业",
+          "code": "601225",
+          "keyword": "煤炭"
+        }
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "title": "能源替代效应凸显？煤炭股走强 6股业绩预测翻倍",
+      "url": "https://finance.eastmoney.com/a/202603123669955383.html",
+      "source": "东方财富",
+      "time": "",
+      "stocks": [
+        {
+          "name": "中国神华",
+          "code": "601088",
+          "keyword": "煤炭"
+        },
+        {
+          "name": "陕西煤业",
+          "code": "601225",
+          "keyword": "煤炭"
+        }
+      ],
+      "sentiment": "neutral"
+    }
+  ],
+  "all_news": [
+    {
+      "title": "全国人大四次会议闭幕",
+      "url": "https://finance.eastmoney.com/a/202603123670106419.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "通过十五五规划纲要",
+      "url": "https://finance.eastmoney.com/a/202603123670096141.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "习近平等国家领导人出席",
+      "url": "https://finance.eastmoney.com/a/202603123670091549.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "伊朗最高领袖穆杰塔巴发表首份声明",
+      "url": "https://finance.eastmoney.com/a/202603123670416548.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "伊朗喊话：美国准备好迎接200美元油价",
+      "url": "https://finance.eastmoney.com/a/202603123670210790.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "罗素2000指数跌幅扩大至1.5%",
+      "url": "https://finance.eastmoney.com/a/202603123670424739.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "王毅同埃及外长阿卜杜勒阿提通电话",
+      "url": "https://finance.eastmoney.com/a/202603123670423427.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "伊朗新任最高领袖誓言复仇",
+      "url": "https://finance.eastmoney.com/a/202603123670423232.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "摩根士丹利股价下跌4.9%",
+      "url": "https://finance.eastmoney.com/a/202603123670422492.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "伊朗最高领袖说将继续封锁霍尔木兹海峡",
+      "url": "https://finance.eastmoney.com/a/202603123670422098.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "伊朗新任最高领袖感谢抵抗运动",
+      "url": "https://finance.eastmoney.com/a/202603123670421923.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "标普1500化肥指数上涨4%",
+      "url": "https://finance.eastmoney.com/a/202603123670420580.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "中国驻以色列使馆：特别提醒在以色列北部中国公民务必尽快转移避险并加强安全防范",
+      "url": "https://finance.eastmoney.com/a/202603123670420380.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "斯托克欧洲600指数下跌0.6%",
+      "url": "https://finance.eastmoney.com/a/202603123670419465.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "美股三大指数集体低开 纳指跌0.9%",
+      "url": "https://finance.eastmoney.com/a/202603123670419796.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "上证指数震荡整理 风电设备与煤炭开采板块大涨",
+      "url": "https://finance.eastmoney.com/a/202603123670089077.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "发生什么？近3900家下跌 这一板块午后暴力拉升",
+      "url": "https://finance.eastmoney.com/a/202603123670113513.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "刚刚集体杀跌！阿曼突传重磅！CTA冲击波来袭",
+      "url": "https://finance.eastmoney.com/a/202603123669949929.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "风电“起飞”！装机、盈利、出口利好共振(附股)",
+      "url": "https://finance.eastmoney.com/a/202603123670382777.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "能源替代效应凸显？煤炭股走强 6股业绩预测翻倍",
+      "url": "https://finance.eastmoney.com/a/202603123669955383.html",
+      "source": "东方财富",
+      "time": ""
+    },
+    {
+      "title": "*ST正平:正平股份关于股票交易的风险提示公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526871.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:27"
+    },
+    {
+      "title": "*ST正平:正平股份关于公司及子公司诉讼仲裁事项进展及新增诉讼仲裁事项的公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526872.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:27"
+    },
+    {
+      "title": "伟思医疗:南京伟思医疗科技股份有限公司关于股东权益变动触及1%刻度的提示性公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526854.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:25"
+    },
+    {
+      "title": "ST京蓝:关于公司股票交易异常波动情况暨停牌核查的公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526826.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:21"
+    },
+    {
+      "title": "特宝生物:关于董事长提议公司回购股份的公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526746.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:13"
+    },
+    {
+      "title": "钧崴电子:华泰联合证券有限责任公司关于钧崴电子科技股份有限公司使用部分闲置募集资金进行现金管理的核查意见",
+      "url": "https://notice.eastmoney.com/AN202603121820526738.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:13"
+    },
+    {
+      "title": "钧崴电子:第二届董事会第三次会议决议公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526734.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:13"
+    },
+    {
+      "title": "钧崴电子:关于使用部分闲置募集资金进行现金管理的公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526735.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:13"
+    },
+    {
+      "title": "钧崴电子:关于使用自有资金进行委托理财的公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526736.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:13"
+    },
+    {
+      "title": "华安证券:华安证券股份有限公司关于“华安转债”到期兑付结果暨股份变动的公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526642.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:03"
+    },
+    {
+      "title": "洪通燃气:新疆洪通燃气股份有限公司关于使用闲置募集资金进行现金管理的进展公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526604.html",
+      "source": "公司公告",
+      "time": "2026-03-12 21:00"
+    },
+    {
+      "title": "源杰科技:陕西源杰半导体科技股份有限公司2026年第二次临时股东会会议资料",
+      "url": "https://notice.eastmoney.com/AN202603121820526563.html",
+      "source": "公司公告",
+      "time": "2026-03-12 20:57"
+    },
+    {
+      "title": "神州数码:关于公司部分董事、高级管理人员减持股份的预披露公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526552.html",
+      "source": "公司公告",
+      "time": "2026-03-12 20:56"
+    },
+    {
+      "title": "国安股份:第八届董事会第二十二次会议决议公告",
+      "url": "https://notice.eastmoney.com/AN202603121820526349.html",
+      "source": "公司公告",
+      "time": "2026-03-12 20:41"
+    },
+    {
+      "title": "帝尔激光:独立董事工作制度(草案)(H股发行上市后适用)",
+      "url": "https://notice.eastmoney.com/AN202603121820526356.html",
+      "source": "公司公告",
+      "time": "2026-03-12 20:41"
+    },
+    {
+      "title": "帝尔激光:独立董事候选人声明与承诺(张劲松)",
+      "url": "https://notice.eastmoney.com/AN202603121820526346.html",
+      "source": "公司公告",
+      "time": "2026-03-12 20:41"
+    },
+    {
+      "title": "帝尔激光:独立董事提名人声明与承诺(张劲松)",
+      "url": "https://notice.eastmoney.com/AN202603121820526354.html",
+      "source": "公司公告",
+      "time": "2026-03-12 20:41"
+    },
+    {
+      "title": "帝尔激光:董事会提名委员会工作细则(草案)(H股发行上市后适用)",
+      "url": "https://notice.eastmoney.com/AN202603121820526358.html",
+      "source": "公司公告",
+      "time": "2026-03-12 20:41"
+    },
+    {
+      "title": "帝尔激光:关于召开2026年第二次临时股东会的通知",
+      "url": "https://notice.eastmoney.com/AN202603121820526363.html",
+      "source": "公司公告",
+      "time": "2026-03-12 20:41"
+    },
+    {
+      "title": "【广州圆石投资被监管责令改正 因微信下达交易指令、募资违规】财联社3月12日电，广东证监局近日披露的相关行政监管措施决定书显示，广州市圆石投资管理有限公司在开展私募投资基金管理业务过程中存在两项违规行为。一是委托不具有基金销售资格的机构从事",
+      "url": "",
+      "source": "财联社",
+      "time": "21:41"
+    },
+    {
+      "title": "【德方纳米：第四代高压实密度磷酸铁锂已实现批量出货】财联社3月12日电，德方纳米在互动平台表示，公司第四代高压实密度磷酸铁锂产品已实现批量出货，出货量及占比不断提高。",
+      "url": "",
+      "source": "财联社",
+      "time": "21:39"
+    },
+    {
+      "title": "财联社3月12日电，德意志银行股价下跌6.5%，或将创下4月以来最大跌幅。",
+      "url": "",
+      "source": "财联社",
+      "time": "21:39"
+    },
+    {
+      "title": "【王毅同埃及外长阿卜杜勒阿提通电话】财联社3月12日电，中共中央政治局委员、外交部长王毅12日同埃及外长阿卜杜勒阿提通电话。阿卜杜勒阿提介绍了地区局势和埃方立场，表示埃方对当前的战事深感担忧。联合国安理会日前通过决议，埃方呼吁各方保持克制，",
+      "url": "",
+      "source": "财联社",
+      "time": "21:37"
+    },
+    {
+      "title": "财联社3月12日电，罗素2000指数跌幅扩大至1.5%。",
+      "url": "",
+      "source": "财联社",
+      "time": "21:37"
+    },
+    {
+      "title": "财联社3月12日电，摩根士丹利股价下跌4.9%，创2月27日以来最大跌幅。",
+      "url": "",
+      "source": "财联社",
+      "time": "21:35"
+    },
+    {
+      "title": "【利弗莫尔中概股龙头指数盘初跌0.6%】财联社3月12日电，利弗莫尔中概股龙头指数盘初跌0.6%，成分股中，理想汽车、禾赛、台积电跌超2%。",
+      "url": "",
+      "source": "财联社",
+      "time": "21:33"
+    },
+    {
+      "title": "财联社3月12日电，标普1500化肥指数上涨4%。",
+      "url": "",
+      "source": "财联社",
+      "time": "21:33"
+    },
+    {
+      "title": "【理想汽车总裁马东辉：尽量在公司内部消化外部涨价压力】财联社3月12日电，理想汽车总裁马东辉在2025年四季度及全年财报电话会上表示，针对当前零部件价格上涨带来的影响，理想汽车将强化与供应伙伴的协同，与相关供应商签署长期 LTA协议，提前锁",
+      "url": "",
+      "source": "财联社",
+      "time": "21:32"
+    },
+    {
+      "title": "【中国驻以色列使馆：特别提醒在以色列北部中国公民务必尽快转移避险并加强安全防范】财联社3月12日电，中国驻以色列使馆发文称，近日，以色列北部地区同时遭受来自东部和北部的大规模导弹、火箭弹、无人机袭击，仅3月11日夜间火箭弹袭击就近百枚，造成",
+      "url": "",
+      "source": "财联社",
+      "time": "21:32"
+    },
+    {
+      "title": "【美股三大指数集体低开 纳指跌0.9%】财联社3月12日电，美股三大指数集体低开，纳指跌0.89%，道指跌1.16%，标普500指数跌0.83%。芯片股普跌，英特尔、英伟达、AMD、闪迪跌超1%。",
+      "url": "",
+      "source": "财联社",
+      "time": "21:31"
+    }
+  ]
+}
